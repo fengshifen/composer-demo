@@ -6,6 +6,6 @@ class Tools
 {
     public static function hello()
     {
-        echo 'hello world!-2';
+        echo 'hello world!-3';
     }
 }
